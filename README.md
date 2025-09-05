@@ -6,7 +6,7 @@ Este material foi elaborado para apoiar uma pesquisa acadêmica sobre as estrat�
 
 ### 📖 Descrição
 
-- Contém o conjunto de perguntas aplicadas nas entrevistas realizadas com coordenadores(as) de curso.
+- Contém o conjunto de perguntas aplicadas nas entrevistas realizadas com as coordenações dos cursos.
 - O objetivo é mapear e compreender como cada curso organiza suas ações de acolhimento e integração de novos estudantes.
 - As respostas serão utilizadas exclusivamente para fins de pesquisa acadêmica.
 
