@@ -1,6 +1,6 @@
 # 🎓 Perguntas das Entrevistas
 
-### 📌 Repositório com as perguntas utilizadas nas entrevistas com os(as) coordenadores(as) de curso da Universidade Federal de Viçosa (UFV).
+### 📌 Repositório com as perguntas utilizadas nas entrevistas com as coordenações dos cursos da Universidade Federal de Viçosa (UFV).
 
 Este material foi elaborado para apoiar uma pesquisa acadêmica sobre as estratégias de acolhimento de calouros nos diferentes campi da UFV, e servirá como base para artigos científicos.
 
