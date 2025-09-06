@@ -12,7 +12,7 @@ Este material foi elaborado para apoiar uma pesquisa acadêmica sobre as estrat�
 
 ### 🗂 Estrutura do Repositório
 
-- **Perguntas das Entrevistas.pdf** → Documento com todas as perguntas aplicadas nas entrevistas.
+- **PDF "Perguntas das Entrevistas"** → Documento com todas as perguntas aplicadas nas entrevistas.
 
 ### 📌 Observação
 
