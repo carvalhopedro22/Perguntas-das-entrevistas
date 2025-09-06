@@ -1,4 +1,4 @@
-# 🎓 Perguntas das Entrevistas
+# 📝 Perguntas das Entrevistas
 
 ### 📌 Repositório com as perguntas utilizadas nas entrevistas com as coordenações dos cursos da Universidade Federal de Viçosa (UFV).
 
@@ -12,7 +12,7 @@ Este material foi elaborado para apoiar uma pesquisa acadêmica sobre as estrat�
 
 ### 🗂 Estrutura do Repositório
 
-- Perguntas das Entrevistas.pdf → Documento com todas as perguntas aplicadas nas entrevistas.
+- **Perguntas das Entrevistas.pdf** → Documento com todas as perguntas aplicadas nas entrevistas.
 
 ### 📌 Observação
 
